@@ -69,8 +69,8 @@ public class OrdersFunctions
 
         var qc = _queues.GetQueueClient(_queue);
         await qc.CreateIfNotExistsAsync();
-        var base64 = Convert.ToBase64String(Encoding.UTF8.GetBytes(JsonSerializer.Serialize(msg, new JsonSerializerOptions(JsonSerializerDefaults.Web))));
-        await qc.SendMessageAsync(base64);
+        var json = JsonSerializer.Serialize(msg, new JsonSerializerOptions(JsonSerializerDefaults.Web));
+        await qc.SendMessageAsync(json);
 
         return HttpJson.Accepted(req);
     }
@@ -83,8 +83,8 @@ public class OrdersFunctions
 
         var qc = _queues.GetQueueClient(_queue); await qc.CreateIfNotExistsAsync();
         var msg = new OrderMessage { OrderId = id, Status = body.Status };
-        var base64 = Convert.ToBase64String(Encoding.UTF8.GetBytes(JsonSerializer.Serialize(msg)));
-        await qc.SendMessageAsync(base64);
+        var json = JsonSerializer.Serialize(msg, new JsonSerializerOptions(JsonSerializerDefaults.Web));
+        await qc.SendMessageAsync(json);
         return HttpJson.Accepted(req);
     }
 
