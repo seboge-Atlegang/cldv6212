@@ -33,8 +33,7 @@ public class QueueProcessorFunctions
     public async Task Run([Microsoft.Azure.Functions.Worker.QueueTrigger("%QUEUE_ORDERS%", Connection = "STORAGE_CONNECTION")] string base64, FunctionContext ctx)
     {
         var log = ctx.GetLogger("orders-queue-processor");
-        var json = Encoding.UTF8.GetString(Convert.FromBase64String(base64));
-        var msg = JsonSerializer.Deserialize<OrderMessage>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+        var msg = JsonSerializer.Deserialize<OrderMessage>(base64, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
         if (msg is null) { log.LogWarning("Invalid message"); return; }
 
         var t = _tables.GetTableClient(_orders);
