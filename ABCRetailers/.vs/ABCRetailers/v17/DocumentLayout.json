@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7E6833-3FDA-4B43-BCC2-1DECC1AC7173}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers.functions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7E6833-3FDA-4B43-BCC2-1DECC1AC7173}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers.functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7E6833-3FDA-4B43-BCC2-1DECC1AC7173}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers.functions\\functions\\customersfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7E6833-3FDA-4B43-BCC2-1DECC1AC7173}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers.functions\\functions\\blobfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:06:12.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomersFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers.Functions\\Functions\\CustomersFunctions.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\Functions\\CustomersFunctions.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers.Functions\\Functions\\CustomersFunctions.cs",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\Functions\\CustomersFunctions.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAQwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T03:44:07.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlobFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers.Functions\\Functions\\BlobFunctions.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\Functions\\BlobFunctions.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers.Functions\\Functions\\BlobFunctions.cs",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\Functions\\BlobFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:31:29.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers.Functions\\local.settings.json",
+              "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\local.settings.json",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers.Functions\\local.settings.json",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAADSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T09:44:50.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers.Functions\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers.Functions\\Program.cs",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T09:29:42.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T09:32:41.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T09:19:35.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T16:50:02.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
